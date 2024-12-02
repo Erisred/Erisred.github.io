@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
 
 # To toggle the rss feed in the footer, comment or uncomment below
-enable_footer_feed: true
+enable_footer_feed: false
 
 
 # Disqus Comments
